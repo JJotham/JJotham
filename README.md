@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JJotham
-- 👀 I’m interested in back end web development and mobile (Android) development
-- 🌱 I’m currently lfollowing the ordin project curriculum to learn web dev
+- 👋 Hi, I’m Jotham
+- 👀 I’m interested in back end web development and mobile development
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ... not at the moment
 - 📫 How to reach me ... find me on Twitter @onejotham. 
 
