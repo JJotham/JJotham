@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Jotham
-- 👀 I’m interested in back end web development and mobile development
-- 🌱 I’m currently 
-- 💞️ I’m looking to collaborate on ... not at the moment
-- 📫 How to reach me ... find me on Twitter @onejotham. 
+- 👋 Hi, I’m Jotham. A technical writer based in Nairobi.
+- 👀 I’m interested in front end web development.
+- 🌱 I’m currently learning Javascript with a view of progressing to react and angular.
+- 📫 You can find me on Twitter @onejotham. 
 
 <!---
 JJotham/JJotham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
